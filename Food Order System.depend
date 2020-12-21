@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1608566071 source:c:\users\dhruba datta\documents\codeblocks\food order system\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<ctime>
+	<fstream>
+	<string.h>
+	<fstream>
+	<conio.h>
+	<sstream>
+
