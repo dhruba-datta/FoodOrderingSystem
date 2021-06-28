@@ -27,9 +27,9 @@ class Customer
 
     void setname()
     {
-	cout<<"\n Please Enter Your Name: ";
-	cin>>Name;
-
+        cout<<"\n Please Enter Your Name: ";
+        std::cin.ignore();
+        getline(std::cin, Name);
     }
     void setphone()
     {
